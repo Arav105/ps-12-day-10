@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\ps-12 Day-11\ps-12\bin\Debug\ps-12.exe.config
+C:\Users\Admin\source\repos\ps-12 Day-11\ps-12\bin\Debug\ps-12.exe
+C:\Users\Admin\source\repos\ps-12 Day-11\ps-12\bin\Debug\ps-12.pdb
+C:\Users\Admin\source\repos\ps-12 Day-11\ps-12\obj\Debug\ps-12.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\ps-12 Day-11\ps-12\obj\Debug\ps-12.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\ps-12 Day-11\ps-12\obj\Debug\ps-12.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ps-12 Day-11\ps-12\obj\Debug\ps-12.exe
+C:\Users\Admin\source\repos\ps-12 Day-11\ps-12\obj\Debug\ps-12.pdb
